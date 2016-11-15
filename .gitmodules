@@ -1,9 +1,12 @@
 [submodule "sources_non_forked/vim-gitgutter"]
 	path = sources_non_forked/vim-gitgutter
-	url = git://github.com/airblade/vim-gitgutter.git
+    url = git://github.com/airblade/vim-gitgutter.git
+    branch = master
 [submodule "sources_non_forked/vim-racer"]
 	path = sources_non_forked/vim-racer
-	url = git://github.com/racer-rust/vim-racer.git
+    url = git://github.com/racer-rust/vim-racer.git
+    branch = master
 [submodule "sources_non_forked/ultisnips"]
 	path = sources_non_forked/ultisnips
-	url = git://github.com/SirVer/ultisnips.git
+    url = git://github.com/SirVer/ultisnips.git
+    branch = master
